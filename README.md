@@ -1,2 +1,3 @@
-# stellarisMod
-Try to make a stellaris mod
+# Stellaris Mod Box
+## Infinity Factions
+### The Morat Supremary
