@@ -3,17 +3,22 @@
 ### The Morat Supremary
 Some basic ideas regarding names
 
-Morat	Race
-Combined Army	Alliance
-Raktorak Duvak	Name
-Ugart	Home Planet
-Sotarak	Duels
-Rodoks	Troop Detechment
-Sergeant Karlek
-Murdats	Children
-Sergeant Arok
-Venguard Ifantry
-Sergeant Billek
-Maakrep Tracker Unit
-Raicho Armored Brigade
-Daturazi Witch Soldier
+*Basics*
+* Morat
+* Combined Army
+* Ugart	Home Planet
+* Sotarak	Duels 
+* Murdats	Children
+
+*Persons*
+* Raktorak Duvak
+* Sergeant Karlek
+* Sergeant Arok
+* Sergeant Billek
+
+*Troops*
+* Rodoks
+* Venguard Ifantry
+* Maakrep Tracker Unit
+* Raicho Armored Brigade
+* Daturazi Witch Soldier
